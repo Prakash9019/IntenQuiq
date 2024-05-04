@@ -6,9 +6,10 @@ cd IntenQuiq
 npm i
 ```
 ## Available Scripts
-
-### `npm start` for the Frontend
-### `nodemon index.js` for the backend
+## for the Frontend
+### `npm start` 
+## for the backend
+### `nodemon index.js` 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
