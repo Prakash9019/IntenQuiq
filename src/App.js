@@ -140,9 +140,7 @@ import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Login from './Login.js';
 import Homepage from './Homepage';
-import ActiveUsers from './ActiveUsers';
 import SignUp from './SignUp.js';
-import InteractiveImage from './Ima.js';
 
 function App() {
 
